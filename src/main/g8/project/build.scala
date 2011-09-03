@@ -23,14 +23,14 @@ object General {
 
 object AndroidBuild extends Build {
   lazy val main = Project (
-    file("."), 
     "$name$",
+    file("."),
     settings = General.fullAndroidSettings 
   )
 
   lazy val tests = Project (
-    file("tests"),
     "tests",
+    file("tests"),
     settings = General.settings ++ AndroidTest.androidSettings
   ) dependsOn main
 }
