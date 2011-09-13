@@ -7,7 +7,7 @@ object General {
   val settings = Defaults.defaultSettings ++ Seq (
     name := "$name$",
     version := "0.1",
-    scalaVersion := "2.9.0-1",
+    scalaVersion := "$project_scala_version$",
     platformName in Android := "android-$api_level$"
   )
 
