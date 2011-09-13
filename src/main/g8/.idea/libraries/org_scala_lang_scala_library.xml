@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="org.scala-lang_scala-library_$project_scala_version$">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/project/boot/scala-$project_scala_version$/lib/scala-library.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/docs/scala-library-$project_scala_version$-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-$project_scala_version$-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
