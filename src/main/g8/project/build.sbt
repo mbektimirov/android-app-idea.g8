@@ -1,0 +1,1 @@
+seq(ProguardPlugin.proguardSettings :_*)
