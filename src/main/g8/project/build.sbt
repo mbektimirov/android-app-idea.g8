@@ -1,1 +1,0 @@
-seq(ProguardPlugin.proguardSettings :_*)
