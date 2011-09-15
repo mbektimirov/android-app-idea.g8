@@ -1,6 +1,6 @@
 # Android App in Scala with IntelliJ Idea project template
 
-[giter8](http://github.com/n8han/giter8) for create android sbt project with Idea project files
+[giter8](http://github.com/n8han/giter8) template for create android sbt project with Idea project files
 
 ## How to use
 
@@ -28,7 +28,6 @@ Your android IntelliJ Idea sbt project contains 2 subprojects:
 
 ## Supported commands for sbt android plugin:
 
-    package-debug - Builds a debug APK that we can deploy to our phone.
     start-emulator - Starts the app on an emulator, if one is running.
     reinstall-emulator - Reinstalls the app on an emulator, if running.
     reinstall-device - Reinstalls the app on an attached Android device.
