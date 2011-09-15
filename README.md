@@ -12,7 +12,7 @@ or install g8 manually: http://github.com/n8han/giter8#readme
 
 After g8 installation has finished, just enter this commands in the shell:
 
-    g8 mbektimirov/android-app-idea
+    ~/bin/g8 mbektimirov/android-app-idea
     cd <name-of-app>
     sbt update
     sbt start-device # or sbt start-emulator
