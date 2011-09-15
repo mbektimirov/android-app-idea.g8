@@ -10,7 +10,7 @@ To use this template, run *install.sh* script:
 
 or install g8 manually: http://github.com/n8han/giter8#readme
 
-After g8 installation just enter this commands in the shell:
+After g8 installation has finished, just enter this commands in the shell:
 
     g8 mbektimirov/android-app-idea
     cd <name-of-app>
