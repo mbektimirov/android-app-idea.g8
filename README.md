@@ -6,7 +6,7 @@
 
 To use this template, run *install.sh* script:
 
-    curl https://raw.github.com/mbektimirov/android-app-idea.g8/master/install.sh
+    curl https://raw.github.com/mbektimirov/android-app-idea.g8/master/install.sh | sh
 
 or install g8 manually: http://github.com/n8han/giter8#readme
 
